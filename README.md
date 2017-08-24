@@ -1,2 +1,2 @@
 # Real-Estate-Template
-Real Estate Bootstrap Template
+Real Estate custom Wordpress Template
